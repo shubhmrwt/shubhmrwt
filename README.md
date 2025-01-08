@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shubhmrwt&label=Profile%20views&color=0e75b6&style=flat" alt="shubhmrwt" /> </p>
 
-- 👯 I’m currently learner **DSA using JAVA, React-Native**
+- 👯 I’m currently learning **DSA using JAVA, React-Native**
 
 - 💬 Ask me about **Frontend , JAVA**
 
