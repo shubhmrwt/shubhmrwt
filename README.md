@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **shubhmrwt01@gmail.com**
 
-- ⚡ Fun fact **I am friendly 😁.**
+- ⚡ Fun fact **I am great at cooking .**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
